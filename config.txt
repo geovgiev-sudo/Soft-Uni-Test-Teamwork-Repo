@@ -1,0 +1,7 @@
+first name = Peter
+
+surname = Petrov
+
+size = 120
+
+email = peter.petrovvv_7@abv.bg

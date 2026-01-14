@@ -5,3 +5,12 @@ surname = Petrov
 size = 120
 
 email = peter.petrovvv_7@abv.bg
+
+
+first_name = Ivan
+
+surname = Ivanov
+
+size = 120
+
+email = ivan.ivanofff@dir.bg

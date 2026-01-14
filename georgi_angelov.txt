@@ -1,1 +1,3 @@
 My name is Georgi. I am from Burgas, currently learning Python. I love driving and traveling a lot!
+
+My name is also Georgi. I am from Plovdiv and I love music, gaming and traveling!
